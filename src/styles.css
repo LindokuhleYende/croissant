@@ -1,3 +1,28 @@
+h1,h2,h4{
+    text-align: center;
+}
+p{
+text-align: center;
+font-style: italic;
+font-weight: bold;
+}
+body{
+    background-color:chocolate;
+    color:bisque
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    color: rgb(0, 139, 35);
+    font-weight: bolder;
+    text-decoration: none;
+}
+.img{
+    width: 450px;
+    height:auto;
     display: block;
     margin: 0 auto;
+    border-radius: 10%;
 }
